@@ -1,7 +1,13 @@
 # Test
-This is a test file 
-Hello this is sayumi
+This is a test file,
 
-This is a change
-New line added.  
+Hello this is Sayumi
+
+This is a change.
+
+New line added.
+
+This is my second change. 
+Line two added. 
+
 
