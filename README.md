@@ -3,7 +3,7 @@ This is a test file,
 
 Hello this is Sayumi
 
-This is a change.
+There are some changes this will be a merge conflict.
 
 New line added.
 
