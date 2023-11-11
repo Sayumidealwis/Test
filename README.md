@@ -3,7 +3,7 @@ This is a test file,
 
 Hello this is Sayumi
 
-This is a change.
+This was a new change.
 
 New line added.
 
