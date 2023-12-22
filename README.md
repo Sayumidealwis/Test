@@ -6,8 +6,6 @@ Hello this is Sayumi
 
 There are some changes this will be a merge conflict.
 
-New line added.
-
 This is my second change.
 Line two added.
 
