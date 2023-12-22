@@ -6,8 +6,6 @@ Hello this is Sayumi
 
 There are some changes this will be a merge conflict.
 
-New line added.
-
 This is my second change.
 Line two added.
 
@@ -25,3 +23,6 @@ Again added something new to this branch
 
 This is edit from branch-1
 
+new comment 1
+
+new comment 2
