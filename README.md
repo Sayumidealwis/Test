@@ -24,3 +24,5 @@ I added someting new to this branch-2
 Again added something new to this branch
 
 This is branch-2 . something new is added to this file
+
+New comment
