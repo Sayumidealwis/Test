@@ -6,8 +6,6 @@ Hello this is Sayumi
 
 There are some changes this will be a merge conflict.
 
-New line added.
-
 This is my second change.
 Line two added.
 
@@ -23,4 +21,12 @@ I added someting new to this branch-2
 "2023/12/19"
 Again added something new to this branch
 
+
 This is branch-2 . something new is added to this file
+
+This is edit from branch-1
+
+new comment 1
+
+new comment 2
+
